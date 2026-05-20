@@ -1,0 +1,15 @@
+openai
+langchain-core
+langchain==0.3.0
+langchain-classic
+langchain-community
+langchain-openai
+langchain-text-splitters
+faiss-cpu
+pypdf
+pandas
+openpyxl
+streamlit
+tiktoken
+python-dotenv
+langchain_ollama
